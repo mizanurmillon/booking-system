@@ -43,6 +43,7 @@ php artisan optimize:clear
 ```sh
 php artisan serve
 ```
+For Live URL:https://booking-system.softvencefsd.xyz <br>
 
 For Admin Login `http://127.0.0.1:8000` <br>
 Admin gmail = `admin@admin.com` & password = `12345678`
